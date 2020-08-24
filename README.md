@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Vasu. A Student, Linux Geek & Dev
 ### 🎓 Studying at [Concordia University](https://www.concordia.ca)  
-### 📫 How to reach me: Telegram [@vasuratanpara](https://t.me/vasuratanpara)
+### 📫 Contact me: Telegram [@vasuratanpara](https://t.me/vasuratanpara)
 
 <!--
 **vasuratanpara/vasuratanpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
