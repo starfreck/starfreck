@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Vasu. A Student, Linux Geek & Dev
+### I am A Student, Linux Geek & Dev
 ### 🎓 Studying at [Concordia University](https://www.concordia.ca)  
 ### 📫 Contact me: Telegram [@vasuratanpara](https://t.me/vasuratanpara)
 
