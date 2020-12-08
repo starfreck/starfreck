@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am A Student, Linux Geek & Dev
 ### 🎓 Studying at [Concordia University](https://www.concordia.ca)  
-### 📫 Contact me: Telegram [@vasuratanpara](https://t.me/vasuratanpara)
+### 📫 Contact me: Telegram [@starfreck](https://t.me/starfreck)
 
 <!--
 **vasuratanpara/vasuratanpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
