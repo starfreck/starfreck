@@ -1,5 +1,4 @@
-![StarFreck](./logos/StarFreck-logo-transparent.png)
-
+<span style="display:block;text-align:center">![StarFreck](./logos/StarFreck-logo-transparent.png)</span>
 # Hi there 👋
 ## I am A Student, Linux Geek & Dev
 ### 🎓 Studying at [Concordia University](https://www.concordia.ca)  
