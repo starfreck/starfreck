@@ -1,4 +1,4 @@
-![StarFreck](./logos.StarFreck-logo-transparent.png)
+![StarFreck](./logos/StarFreck-logo-transparent.png)
 
 ### Hi there 👋
 ### I am A Student, Linux Geek & Dev
