@@ -6,7 +6,14 @@
 <H3 align="center">🎓 Studying at <a href="https://www.concordia.ca">Concordia University</a></H3>  
 <h3 align="center">📫 Contact me: Telegram <a href="https://t.me/starfreck">@starfreck</a></H#>
 
+<hr/>
 
+![Starfreck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfreck&theme=radical&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starfreck&theme=radical&layout=compact&hide=jupyter%20notebook,html)
+
+<hr />
 <!--
 **vasuratanpara/vasuratanpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
