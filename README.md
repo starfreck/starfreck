@@ -3,7 +3,7 @@
 </p>
 <H1 align="center">Hi there 👋</H1>
 <H2 align="center">I am A Student, Linux Geek & Dev</H2>
-<H3 align="center">🎓 Studying at <a href="https://www.concordia.ca">Concordia University</a></H3>  
+<H3 align="center">🎓 Graduated from <a href="https://www.concordia.ca">Concordia University</a> with <a href="https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html">MApCompSc</a></H3>  
 <h3 align="center">📫 Contact me: Telegram <a href="https://t.me/starfreck">@starfreck</a></H#>
 
 <hr/>
