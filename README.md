@@ -8,10 +8,10 @@
 
 <hr/>
 
-![Starfreck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfreck&theme=radical&show_icons=true)
+![Starfreck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfreck&theme=vue&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starfreck&theme=radical&layout=compact&hide=jupyter%20notebook,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starfreck&theme=vue&layout=compact&hide=jupyter%20notebook,html)
 
 <hr />
 <!--
